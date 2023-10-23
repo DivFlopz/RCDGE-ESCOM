@@ -1,12 +1,18 @@
 import React from 'react'
-import Card from '../UI/Card/Card'
 
-function Procedure(props) {
+function Procedure() {
   return (
-    <Card>
-        <h1>Procedure</h1>
-    </Card>
+    <form>
+      <input type='text'></input>
+      <input type='text'></input>
+      <input type='text'></input>
+      <input type='text'></input>
+      <input type='text'></input>
+      <input type='text'></input>
+      <input type='text'></input>
+    </form>
   )
 }
 
 export default Procedure
+

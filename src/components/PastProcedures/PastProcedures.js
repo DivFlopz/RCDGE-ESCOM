@@ -1,11 +1,11 @@
 import React from 'react'
 
-function PastPrcedures() {
+function PastProcedures() {
   return (
     <div>
-      <h1>PAST PROCEDURES</h1>
+      Se hará un fetch a la base de datos para conocer los trámites a los que haya accedido el usuario
     </div>
   )
 }
 
-export default PastPrcedures
+export default PastProcedures

@@ -6,7 +6,7 @@ import classes from './MainHeader.module.css';
 const MainHeader = (props) => {
   return (
     <header className={classes['main-header']}>
-      <h1>RDGE - ESCOM</h1>
+      <h1>RCDGE - ESCOM</h1>
       <Navigation onLogout={props.onLogout} />
     </header>
   );
